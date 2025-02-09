@@ -119,8 +119,8 @@ Each line of the input file follows one of these formats:
 
 ### 📥 1. Clone the Repository
 
-`git clone https://github.com/your-repo/N-Queens-Solver.git`  
-`cd N-Queens-Solver`  
+`git clone https://github.com/your-repo/Word-Range-Analyzer.git`  
+`cd Word-Range-Analyzer`
 
 ### 🏗 2. Build the Program
 
